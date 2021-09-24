@@ -9,6 +9,7 @@ public class stepdefination {
 @Given("user is on the adactin page")
 public void user_is_on_the_adactin_page() {
    System.out.println("lanuch"); 
+   System.out.println("hello");
 }
 
 @When("user should enter username and password")
